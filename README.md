@@ -26,6 +26,9 @@ Este projeto foi desenvolvido como parte do meu aprendizado em **Java** e **Dese
 - **DAO Pattern** (para separação de lógica de acesso a dados)
 
 ### Frontend
+- **HTML**
+- **CSS**
+- **JavaScript**
 - Foi fornecido pelo instrutor um frontend padrão, no qual eu realizarei uma série de adaptações para se adequar ao projeto Gerenciador de Contatos.
 
 ### Ferramentas
